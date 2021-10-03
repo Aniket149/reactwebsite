@@ -12,13 +12,13 @@ function Navbar() {
               <div className="collapse navbar-collapse" id="navbarNav">
                   <ul className="navbar-nav ms-auto">
                       <li className="nav-item">
-                         <Link className="nav-link active" aria-current="page" to="/reactwebsite/">Home</Link>
+                         <Link className="nav-link active" aria-current="page" to="reactwebsite/">Home</Link>
                         </li>
                         <li className="nav-item">
-                          <Link className="nav-link" to="/reactwebsite/about">About</Link>
+                          <Link className="nav-link" to="reactwebsite/about">About</Link>
                         </li>
                         <li className="nav-item">
-                          <Link className="nav-link" to="/reactwebsite/contact">Contact us</Link>
+                          <Link className="nav-link" to="reactwebsite/contact">Contact us</Link>
                         </li>   
                     </ul>
                 </div>

@@ -20,16 +20,16 @@ function Footer() {
             <h6>Quick Link</h6>
             <hr />
             <div>
-              <Link to="/reactwebsite/" className="text-decoration-none text-white">Home</Link>
+              <Link to="reactwebsite/" className="text-decoration-none text-white">Home</Link>
             </div>
             <div>
-              <Link to="/reactwebsite/about" className="text-decoration-none text-white">About</Link>
+              <Link to="reactwebsite/about" className="text-decoration-none text-white">About</Link>
             </div>
             <div>
-              <Link to="/reactwebsite/contact" className="text-decoration-none text-white">Contact us</Link>
+              <Link to="reactwebsite/contact" className="text-decoration-none text-white">Contact us</Link>
             </div>
             <div>
-              <Link to="/reactwebsite/" className="text-decoration-none text-white">Blog</Link>
+              <Link to="reactwebsite/" className="text-decoration-none text-white">Blog</Link>
             </div>
           </div>
           <div className="col-md-4">
