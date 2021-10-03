@@ -10,9 +10,9 @@ function App() {
     <Router>
       <Navbar/>
       <Switch>
-        <Route path="/" exact component={Home} />
-        <Route path="/about" component={About} />
-        <Route path="/contact" component={Contact}/>
+        <Route path="/reactwebsite/" exact component={Home} />
+        <Route path="/reactwebsite/about" component={About} />
+        <Route path="/reactwebsite/contact" component={Contact}/>
       </Switch>
     </Router>
   );
